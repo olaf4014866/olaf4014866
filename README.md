@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @olaf4014866
+- 👀 I’m interested in javascript and its framework and libraries like React, Vue, Express, Nest, Angular and so on.
+- 🌱 I’m currently learning machine learning
