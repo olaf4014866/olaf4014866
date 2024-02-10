@@ -2,11 +2,11 @@
 # Hello! 👋 Who am I? #
 <div>
 <br/>
-- 🔭 Full Stack Engineer with 10+ years of experience and a history of the development of quality e-commerce web applications and products.<br/>
+- 🔭 Full Stack Engineer with 5+ years of experience and a history of the development of quality e-commerce web applications and products.<br/>
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Django, and GO<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Had a strong history of building and mentoring high-performance web development teams.<br/>
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+- 😉 Deep knowledge about deep learning, recommendation systems, and reinforcement systems.</br>
 
 </div>
 
